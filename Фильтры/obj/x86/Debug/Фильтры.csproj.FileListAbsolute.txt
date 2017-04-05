@@ -1,0 +1,8 @@
+C:\Users\Александр\Desktop\компьютерная графика\Фильтры\bin\Debug\Фильтры.exe
+C:\Users\Александр\Desktop\компьютерная графика\Фильтры\bin\Debug\Фильтры.pdb
+C:\Users\Александр\Desktop\компьютерная графика\Фильтры\obj\x86\Debug\Фильтры.Form1.resources
+C:\Users\Александр\Desktop\компьютерная графика\Фильтры\obj\x86\Debug\Фильтры.Properties.Resources.resources
+C:\Users\Александр\Desktop\компьютерная графика\Фильтры\obj\x86\Debug\Фильтры.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\компьютерная графика\Фильтры\obj\x86\Debug\Фильтры.exe
+C:\Users\Александр\Desktop\компьютерная графика\Фильтры\obj\x86\Debug\Фильтры.pdb
+C:\Users\Александр\Desktop\компьютерная графика\Фильтры\obj\x86\Debug\Фильтры.csprojResolveAssemblyReference.cache
